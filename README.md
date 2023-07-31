@@ -8,3 +8,10 @@
 - 📫 How to reach me: DM me on Twitter my handle is sleepypioneer or find me in the PyLadies Global slack as Jessica Greene
 - 👩‍🦰 Pronouns: She/her
 - ⚡ Fun fact: I used to be a coffee roaster and before that a camera assitant for television, and I once served coffee to the late Sir Christopher Lee!
+- 🎤 I give talks at conferences, including Keynotes.
+
+---
+
+I am super excited to share that I will be giving a keynote talk at PyCon India 2023 in September! 🐍🇮🇳 Such an honour to have the opportunity to meet the community there, including some I have had the pleasure to already get to know online ♥
+
+<img title="pycon india keynote banner" alt="Banner for announcing Jessica Greene as a keynote speaker at PyCon India" src="/pycon_india.jpeg">
