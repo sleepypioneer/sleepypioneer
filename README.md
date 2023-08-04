@@ -8,7 +8,7 @@
 - 📫 How to reach me: DM me on Twitter my handle is sleepypioneer or find me in the PyLadies Global slack as Jessica Greene
 - 👩‍🦰 Pronouns: She/her
 - ⚡ Fun fact: I used to be a coffee roaster and before that a camera assitant for television, and I once served coffee to the late Sir Christopher Lee!
-- 🎤 I give talks at conferences, including Keynotes.
+- 🎤 I give talks at conferences, including Keynotes. You can find a selection of my talks on [Youtube](https://www.youtube.com/playlist?list=PLCGuJZQNXFTidff2NaaWSd3MMiA2MjHMy)
 
 ---
 
