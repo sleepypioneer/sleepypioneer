@@ -17,3 +17,6 @@
 I am super excited to share that I will be giving a keynote talk at PyCon India 2023 in September! 🐍🇮🇳 Such an honor to have the opportunity to meet the community there, including some I have had the pleasure to already get to know online ♥
 
 <img title="pycon india keynote banner" alt="Banner for announcing Jessica Greene as a keynote speaker at PyCon India" src="/pycon_india.jpeg">
+
+[![An image of @sleepypioneer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sleepypioneer)](https://holopin.io/@sleepypioneer)
+
