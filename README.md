@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Ecosia.org](ecosia.org)(the search engine for a better planet🌱), [lagreenceramics.co.uk](https://www.lagreenceramics.co.uk)🐫, and contribute to [Pandas](https://github.com/pandas-dev)🐼
+- 🔭 I’m currently working on [Ecosia.org](ecosia.org)(the search engine for a better planet🌱), [lagreeneceramics.co.uk](https://www.lagreeneceramics.co.uk)🐫, and contribute to [Pandas](https://github.com/pandas-dev)🐼
 - 🤝 I organise events with [PyLadies Berlin](https://github.com/PyLadiesBerlin/community-organisation)👩‍💻, [Python Pizza Hamburg](https://github.com/pythonpizza/hamburg.python.pizza)🍕 and am a member of the [PSF code of conduct workgroup](https://wiki.python.org/psf/ConductWG/Charter)🐍
 - 🌱 I’m currently learning intermediate Python & GO, Machine learning technology, data structure & Algorithms as well as many non-technical topics
 - 👯 I’m looking to collaborate on projects that empower and amplify the voices of marginalised & underrepresented groups
