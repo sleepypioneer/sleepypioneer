@@ -14,6 +14,13 @@
 
 ---
 
+![PyLadies Award](https://img.shields.io/badge/🏆💜%20%20%20Outstanding%20PyLadies%20Award%202024%20Winner%20%20💎-purple.svg)  
+I am honored to be one of the winners of the 2024 [Outstanding PyLadies Award](https://kit.pyladies.com/en/latest/global/award.html).
+
+The Global Council’s Outstanding PyLady award is meant to elevate diverse Pythonistas doing amazing things, to highlight their achievements, and to thank them for all the work they’ve contributed. Know of a PyLady that should be recognized for all their work for Python and the community? [Nominate them (or yourself)!](https://docs.google.com/forms/d/e/1FAIpQLSccnm4kYFez8SPWJD7ZfaAojHZE0qoLF_MLarGzzzc3pcY-xA/viewform)
+
+---
+
 I am super excited to share that I will be giving a keynote talk at PyCon India 2023 in September! 🐍🇮🇳 Such an honor to have the opportunity to meet the community there, including some I have had the pleasure to already get to know online ♥
 
 <img title="pycon india keynote banner" alt="Banner for announcing Jessica Greene as a keynote speaker at PyCon India" src="/pycon_india.jpeg">
