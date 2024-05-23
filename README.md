@@ -21,9 +21,15 @@ The Global Council’s Outstanding PyLady award is meant to elevate diverse Pyth
 
 ---
 
-I am super excited to share that I will be giving a keynote talk at PyCon India 2023 in September! 🐍🇮🇳 Such an honor to have the opportunity to meet the community there, including some I have had the pleasure to already get to know online ♥
+I was honoured to give a keynote talk at PyCon India in September 2023! 🐍🇮🇳 Such an honor to have the opportunity to meet the community there, including some I have had the pleasure to already get to know online ♥
 
-<img title="pycon india keynote banner" alt="Banner for announcing Jessica Greene as a keynote speaker at PyCon India" src="/pycon_india.jpeg">
+<img title="pycon india keynote banner" alt="Banner for announcing Jessica Greene as a keynote speaker at PyCon India" src="/pycon_india.jpeg" style="width: 400px;">
+
+---
+
+In June 2022 I gave my first conference keynote at PyCon Italia 🍝 🇮🇹 It was amazing opportunity to raise my passion with the community there and get to know them better ♥
+
+<img title="pycon india keynote banner" alt="Banner for announcing Jessica Greene as a keynote speaker at PyCon Italia" src="/pycon_italia.jpeg" style="width: 400px;">
 
 [![An image of @sleepypioneer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sleepypioneer)](https://holopin.io/@sleepypioneer)
 
